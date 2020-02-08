@@ -66,35 +66,3 @@
  MULTITHREADING,   MAP : random
 
  ========================================================
-
-## Completed tutorials:
-- [x] Stationary Targets (2pt)
-- [x] Race (2pt)
-- [x] Wall Feeler (5pt)
-- [x] Distant Targets (2pt)
-- [x] Asteroids (4pt)
-- [x] Communication (5pt)
-
-## Completed Milestones:
-- [x] Basic Movement ```(10pt)``` [SOLVED]
-- [x] Path Finding ```(30pt)``` [SOLVED]
-- [x] Path Drawing ```(10pt)``` [SOLVED]
-- [x] Item Collection ```(15pt)``` [SOLVED]
-- [x] Item Handling (Basic) ```(15pt)``` [SOLVED]
-- [x] Item Handling (Advanced) ```(15pt)``` [SOLVED]
-
-## Extra Milestones:
-- [x] Path following ```(20pt)``` [SOLVED]
-- [x] Refuelling ```(15pt)``` [SOLVED]
-- [ ] Search and destroy ```(20pt)``` [SKIPPED]
-
-## Custom milestone:
-- [x] Multithreading ```(XXpt)```  [SOLVED]
-
-## Bonus points
-- Decided by labassistant ```(XXpt)``` 
-
-### Total points so far: ```20```
-### Total points so far if we pass: ```150 + multithreading points```
-### Total points when solved: ```150 + bonus points```
-### Possible points to get so far: ```170```
