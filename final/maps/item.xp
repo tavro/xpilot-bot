@@ -1,0 +1,77 @@
+# John litborn summer 2013
+
+mapwidth : 26
+mapheight : 25
+mapname : Items map
+mapauthor : johli603 modified by dnleng
+gameDuration : 100000
+reset : no
+gravity : 0
+limitedlives : no
+worldlives : 0
+selfimmunity : yes
+friction : 0
+maxRobots : 0
+playerstartsshielded : no
+allowshields : no
+allowplayerkilling : no
+firerepeatrate : 3
+edgewrap : no
+maxitemdensity : 0.002
+shotlife : 20
+maxunshieldedplayerwallbounceangle : 0
+maxunshieldedWallBounceSpeed : 0
+itemenergypackprob : 0
+itemtankprob : 1
+itemecmprob : 0
+itemmineprob : 1
+itemmissileprob : 1
+itemcloakprob : 1
+itemsensorprob : 0
+itemwideangleprob : 0
+itemrearshotprob : 0
+itemafterburnerprob : 0
+itemtransporterprob : 0
+itemlaserprob : 1
+itememergencythrustprob : 0
+itemtractorbeamprob : 0
+itemautopilotprob : 0
+itememergencyshieldprob : 1
+itemdeflectorprob : 0
+itemhyperjumpprob : 0
+itemphasingprob : 0
+itemmirrorprob : 0
+itemarmorprob : 1
+maxmines : 99
+maxMinesPerPack : 1
+movingItemProb : 1
+roguemineprob : 0
+objectwallbouncelifefactor : 1
+
+
+mapData: \multiline: EndOfMapdata
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+          _              
+                         
+                         
+                         
+                         
+     _                   
+                         
+                         
+                         
+                _        
+                         
+                         
+                         
+                         
+                         
+                         
