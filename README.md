@@ -14,11 +14,13 @@ Moves to specified (x, y) coord
 
 Use by writing following in chat:
 
+```
 move-to-stop x y :[botname] (this will stop at specified coord)
 
 move-to-pass x y :[botname] (this will pass by specified coord)
 
 move-to-pos  x y :[botname] (this will do the same as pass)
+```
 
 #### ITEM-COLLECTION:
 Collects specified item
@@ -32,16 +34,20 @@ Uses specified item at (x, y) coord
 
 Use by writing following in chat:
 
+```
 use-item item x y :[botname]
 
 use-item tank x y (next/prev/detach/fuel) :[botname]
+```
 
 #### REFUELLING: 
 Moves to specified fuelstation and refuels ship
 
 Use by writing following in chat:
 
+```
 refuel stationId :[botname]
+```
 
 ### features :heavy_check_mark:
 * BASIC NAVIGATION 
