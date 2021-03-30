@@ -1,68 +1,72 @@
 # X-Pilot AI Project
+BOTNAME.pdf a bot for completing various tasks in XPILOT
+Written by: me, trugr925 & andfr210
 
- ========================================================
+### how to set up project :file_folder:
 
- BOTNAME.pdf a bot for completing various tasks in XPILOT
+```
+1) download this repo
+```
 
- Written by: isaho220, trugr925, andfr210
- Updated: DEC 16, 20:05
+### how to use :question:
+#### BASIC NAVIGATION:
+Moves to specified (x, y) coord
 
- Features: BASIC NAVIGATION, ITEM-COLLECTION AND HANDLING,
- PATH-FINDING FOLLOWING DRAWING AND OPTIMIZATION,
- REFUELLING, SEARCH AND DESTROY, MULTITHREADING
+Use by writing following in chat:
 
- BASIC NAVIGATION:
- Moves to specified (x, y) coord
- Use by writing following in chat:
+move-to-stop x y :[botname] (this will stop at specified coord)
 
- move-to-stop x y :[botname] (this will stop at specified coord)
+move-to-pass x y :[botname] (this will pass by specified coord)
 
- move-to-pass x y :[botname] (this will pass by specified coord)
+move-to-pos  x y :[botname] (this will do the same as pass)
 
- move-to-pos  x y :[botname] (this will do the same as pass)
+#### ITEM-COLLECTION:
+Collects specified item
 
- ITEM-COLLECTION:
- Collects specified item
- Use by writing following in chat:
+Use by writing following in chat:
 
- collect-item item :[botname]
+collect-item item :[botname]
 
- ITEM-HANDLING:
- Uses specified item at (x, y) coord
- Use by writing following in chat:
+#### ITEM-HANDLING:
+Uses specified item at (x, y) coord
 
- use-item item x y :[botname]
- use-item tank x y (next/prev/detach/fuel) :[botname]
+Use by writing following in chat:
 
- PATH-HANDLING:
- Returns safe and optimized a* path from
- startPos (y, x) to endPos (y, x)
- Draws finished path as well as map in console when done
+use-item item x y :[botname]
 
- REFUELLING: 
- Moves to specified fuelstation and refuels ship
- Use by writing following in chat:
+use-item tank x y (next/prev/detach/fuel) :[botname]
 
- refuel stationId :[botname]
+#### REFUELLING: 
+Moves to specified fuelstation and refuels ship
 
- SEARCH AND DESTROY:
- More like 'flee'
+Use by writing following in chat:
 
- MULTITHREADING:
- Runs a* code on other thread
+refuel stationId :[botname]
 
- FOR TESTING:
+### features :heavy_check_mark:
+* BASIC NAVIGATION 
+* ITEM-COLLECTION AND HANDLING
+* PATH-FINDING, FOLLOWING, DRAWING AND OPTIMIZATION 
+* REFUELLING 
+* SEARCH AND DESTROY
+* MULTITHREADING
 
- REFUELLING,       MAP : fuel.xp
+### bugs & cons :warning:
+* unknown at this point
 
- BASIC NAVIGATION, MAP : astar.xp   
+### contributions :trophy:
+* you could be on this list
 
- PATH HANDLING,    MAP : astar.xp   
+### inspiration :recycle:
+* based on project I did in uni
 
- ITEM COLLECTION,  MAP : item.xp
+### communication :speech_balloon:
+:email: if you have any questions feel free to mail me at isakhorvath@gmail.com
 
- ITEM HANDLING,    MAP : item.xp
- 
- MULTITHREADING,   MAP : random
+:beers: know how to improve the code? feel free to send a pull request! open for collaboration
 
- ========================================================
+:headphones: wanna hang out, talk about programming or work on a project? add me on discord: tavro#9198
+
+:coffee: feeling generous? buy me a coffe https://www.buymeacoffee.com/CvaPyAznK
+
+:star: if you found this useful or interesting I would appreciate a star 
